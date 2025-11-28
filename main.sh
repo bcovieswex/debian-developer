@@ -36,9 +36,9 @@ source ${EXECUTION_PATH}/asdf.sh
 source ${EXECUTION_PATH}/dotfiles.sh
 source ${EXECUTION_PATH}/profiles.sh
 source ${EXECUTION_PATH}/sudoers.sh
-source ${EXECUTION_PATH}/chrome.sh
-source ${EXECUTION_PATH}/wsl.sh
-source ${EXECUTION_PATH}/fonts.sh
+#source ${EXECUTION_PATH}/chrome.sh
+#source ${EXECUTION_PATH}/wsl.sh
+#source ${EXECUTION_PATH}/fonts.sh
 source ${EXECUTION_PATH}/tmux.sh
 source ${EXECUTION_PATH}/home-folders.sh
 source ${EXECUTION_PATH}/set-permissions.sh

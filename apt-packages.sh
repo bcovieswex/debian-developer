@@ -7,7 +7,7 @@ echo "######################"
 echo "######################"
 apt update -y
 
-apt install -y tmux man starship timeshift 
+apt install -y tmux man timeshift ansible
 apt install -y curl wget net-tools iputils-ping dnsutils telnet traceroute nmap openssh-server
 apt install -y sudo git vim build-essential make cmake gcc tree xclip zip unzip rsync openssl
 apt install -y libbz2-dev libev-dev libffi-dev libgdbm-dev liblzma-dev libncurses-dev libreadline-dev libsqlite3-dev libssl-dev tk-dev zlib1g-dev
